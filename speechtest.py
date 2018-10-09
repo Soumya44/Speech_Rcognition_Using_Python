@@ -1,3 +1,4 @@
+#Import tools for NLP
 import speech_recognition as sr
 from gtts import gTTS
 import os
